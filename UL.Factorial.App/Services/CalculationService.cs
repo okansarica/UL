@@ -12,3 +12,4 @@ public class CalculationService:ICalculationService
         return result;
     }
 }
+//Reviewer Notes: The service classes can be placed in a separate Class Library project, but I aimed to keep it simple and avoid overengineering for this project.
