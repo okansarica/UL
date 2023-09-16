@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UL.Factorial.App", "UL.Fact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UL.Factorial.App.Tests", "UL.Factorial.App.Tests\UL.Factorial.App.Tests.csproj", "{BB323AA1-5A31-4022-8A55-D82F9A41B79C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UL.FizzBuzz.App", "UL.FizzBuzz.App\UL.FizzBuzz.App.csproj", "{83AB8902-C59F-48B8-8229-79F53AC437F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ul.FizzBuzz.App.Tests", "Ul.FizzBuzz.App.Tests\Ul.FizzBuzz.App.Tests.csproj", "{F2A4C2F5-EC69-4BFD-87FB-986F54E2DDFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{BB323AA1-5A31-4022-8A55-D82F9A41B79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB323AA1-5A31-4022-8A55-D82F9A41B79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB323AA1-5A31-4022-8A55-D82F9A41B79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AB8902-C59F-48B8-8229-79F53AC437F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AB8902-C59F-48B8-8229-79F53AC437F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AB8902-C59F-48B8-8229-79F53AC437F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AB8902-C59F-48B8-8229-79F53AC437F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A4C2F5-EC69-4BFD-87FB-986F54E2DDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A4C2F5-EC69-4BFD-87FB-986F54E2DDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A4C2F5-EC69-4BFD-87FB-986F54E2DDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A4C2F5-EC69-4BFD-87FB-986F54E2DDFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
