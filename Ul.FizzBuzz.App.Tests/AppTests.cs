@@ -14,7 +14,7 @@ public class AppTests
     }
 
     [Fact]
-    public void TerminatesWhenUserInputIsNotCaseSensitiveExit()
+    public void CallCalculateMethod100Times()
     {
         //Arrange
         _calculationServiceMock.Setup(p => p.CalculateFizzBuzz(It.IsAny<int>())).Returns((int input) => input.ToString());
